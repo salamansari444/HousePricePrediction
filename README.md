@@ -1,4 +1,4 @@
-Real Estate Price Prediction
+House Price Prediction
 --------------------------------------------
 we propose our system “Real Estate Price Prediction”. House is one of 
 human life's most essential needs, along with other fundamental needs such as food, 
